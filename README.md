@@ -1,4 +1,4 @@
-# SIFT-PerspectiveAPI-Collaboratio
+# SIFT-PerspectiveAPI-Collaboration
 This repository currently contains 11,973 comments that have been annotated for attributes that correlate with prosocial or constructive outcomes in online conversation. These attributes are: Constructive, Curiosity, Respect, Empathy, Alienation, and Moral Outrage
 
 This work is a collaboration among:
