@@ -4,7 +4,7 @@ This repository currently contains 11,973 comments that have been annotated for 
 This work is a collaboration among:
 * Ruta Wheelock and Scott Friedman at [SIFT](https://www.sift.net/), a research and development consulting company that uses NLP and other technologies to make the information flow between humans and technology better for both sides, 
 * Sonja Schmer- Galunder, Glenn and Deborah Renwick Leadership Professor in AI and Ethics at the [University of Florida](https://www.cise.ufl.edu/sonja-schmer-galunder/), and
-* the [Conversation AI](https://conversationai.github.io/)
+* Zaria Jalan, Alyssa Chvasta, and Emily Saltz as part of the [Conversation AI](https://conversationai.github.io/)
 project, a collaborative research effort at [Jigsaw](https://jigsaw.google.com) exploring ML as a tool for better discussions online, and
 
 ## Background
